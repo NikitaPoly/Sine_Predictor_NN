@@ -1,0 +1,1 @@
+Neural network trained to predict values for the sine function.
